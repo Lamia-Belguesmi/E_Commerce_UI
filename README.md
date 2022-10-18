@@ -1,6 +1,7 @@
 # e_commerce_app
 
 A new Flutter application.
+![ecommerce](https://user-images.githubusercontent.com/65131757/196404513-f2ff23d6-27dc-4da4-abd1-2acc9d8f3b40.gif)
 
 ## Getting Started
 
